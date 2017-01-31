@@ -62,7 +62,8 @@
     "Stefan Siegl (https://github.com/stesie)",
     "Tuan Minh Huynh (https://github.com/tuanmh)",
     "Utku Turunc (https://github.com/utkuturunc)",
-    "Vasiliy Solovey (https://github.com/miltador)"
+    "Vasiliy Solovey (https://github.com/miltador)",
+    "Bastian Behrens (https://github.com/hereandnow)"
   ],
   "license": "MIT",
   "bugs": {
@@ -74,7 +75,7 @@
     "boom": "^4.2.0",
     "coffee-script": "^1.12.2",
     "crypto": "^0.0.3",
-    "hapi": "14.2.0",
+    "hapi": "^16.1.0",
     "hapi-cors-headers": "^1.0.0",
     "js-string-escape": "^1.0.1",
     "jsonpath-plus": "^0.15.0",
